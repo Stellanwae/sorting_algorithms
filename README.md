@@ -5,4 +5,4 @@
 Sorting algorithms the project will involve at least four different sorting algorithms
 
 ## Resources
-- (https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)[sorting algorithm]
+- [sorting algorithm](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)
