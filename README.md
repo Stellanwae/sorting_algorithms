@@ -1,10 +1,10 @@
-#### 0x1B. C - Sorting algorithms & Big O
+## 0x1B. C - Sorting algorithms & Big O
 ``C`` ``Algorithm`` ``Data Structure``
 
 
 Sorting algorithms the project will involve at least four different sorting algorithms
 
-## Resources
+#### Resources
 - [sorting algorithm](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)
 - [Big O notation](https://intranet.alxswe.com/rltoken/WRvrE2BaNVQFssHiUATTrw)
 - [Sorting algorithms animations](https://intranet.alxswe.com/rltoken/ol0P7NbYVb5R31iOv4Q40A)
