@@ -1,10 +1,10 @@
 #include "sort.h"
 /**
- *change_position - function that changes the position of the numbers
- *@array: array
- *@number1: first number
- *@number2: second number
- *@size: size of the array
+ *change_position - function which change number position
+ *@array: the array
+ *@number1: 1st no
+ *@number2: 2nd no
+ *@size: array size
  **/
 void change_position(int *array, int *number1, int *number2, size_t size)
 {
@@ -15,12 +15,12 @@ void change_position(int *array, int *number1, int *number2, size_t size)
 	print_array(array, size);
 }
 /**
- *partition - partition function for the array
+ *partition - partition function of array
  *@array: array
  *@low: low
  *@high: high
- *@size: size of the array
- *Return: numero de cambios realizados
+ *@size: array size
+ *Return: sorted list
  **/
 int partition(int *array, int low, int high, size_t size)
 {
@@ -42,11 +42,11 @@ int partition(int *array, int low, int high, size_t size)
 	return (Index);
 }
 /**
- *quickSort - function to quicksort
+ *quickSort - quicksort algorithm
  *@array: array
  *@low: low
  *@high: high
- *@size: size of the array
+ *@size: array size
  **/
 void quickSort(int *array, int low, int high, size_t size)
 {
@@ -60,9 +60,9 @@ void quickSort(int *array, int low, int high, size_t size)
 	}
 }
 /**
- *quick_sort - sorts an array of integers in ascending order
+ *quick_sort - function to sort int in ascending order
  *@array: array
- *@size: size of the array
+ *@size: array size
  **/
 void quick_sort(int *array, size_t size)
 {
